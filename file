@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  this is my methode 
 <<<<<<< HEAD
  for this suiation
@@ -11,3 +12,10 @@
 
 
 this my methode what evert currectly suiationi
+=======
+this ur methode this called programing table charactezation that is called ansible 
+ my methode is called reporting suitation characterzaton that is
+called programing table methode
+>>>>>>> rrr
+select ename,sal,hiredate from emp where deptno iN(10,20);
+this ur methode ur 
