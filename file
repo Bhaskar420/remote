@@ -8,7 +8,7 @@
  for this suiation characterzatino controlle
  this different  code commit
 
->>>>>>> 3a38c8b... bab
+>>>>> 3a38c8b... bab
 
 
 this my methode what evert currectly suiationi
@@ -19,6 +19,8 @@ called programing table methode
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> rrr
+repoting this ur medel calcuntion calcution this ur  
+select ename,sal from emp where deptno (10,20);
 select ename,sal,hiredate from emp where deptno iN(10,20);
 this ur methode ur 
 =======
